@@ -1,5 +1,5 @@
-# Package VA BTN UNMER
-Digunakan sebagai library untuk komunikasi antara sistem unsil dengan sistem virtual account milik Bank BTN.
+# Package VA BTN UNMERPAY
+Digunakan sebagai library untuk komunikasi antara sistem UNMERPAY dengan sistem virtual account milik Bank BTN.
 
 ## Cara Instalasi
 Install via composer :
